@@ -28,7 +28,7 @@ The Automated Night Patrolling Robot is a Raspberry Pi 4B-powered autonomous sys
 4.OpenCV (for image processing)<br/>
 5.RPi.GPIO (for controlling hardware)<br/>
 
-##Setup Instructions<br/>
+## Setup Instructions<br/>
 1. Clone the Repository
 ```
 git clone https://github.com/your-repo/night_patrolling_robot.git
