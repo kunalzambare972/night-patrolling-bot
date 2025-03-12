@@ -1,0 +1,6 @@
+{
+    "patrol_speed": 60,
+    "obstacle_distance_threshold": 30,
+    "email_alerts": true,
+    "alert_email": "alert_email@gmail.com"
+}

@@ -1,0 +1,4 @@
+opencv-python
+Rpi.GPIO
+numpy
+smtplib
