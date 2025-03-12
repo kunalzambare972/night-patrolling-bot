@@ -1,4 +1,8 @@
-opencv-python
-Rpi.GPIO
-numpy
-smtplib
+Flask                 # For web interface and remote control
+opencv-python         # For camera and motion detection
+RPi.GPIO              # For controlling Raspberry Pi GPIO pins
+numpy                 # For numerical operations
+Pillow                # For image processing
+picamera              # For interfacing with the Raspberry Pi Camera Module
+imutils               # For image processing utilities
+scipy                 # Additional scientific computing tools
