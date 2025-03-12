@@ -1,4 +1,4 @@
-# Automated Night Patrolling Robot 🚔🤖
+# Night Patrolling Robot
 
 ## Overview
 The Automated Night Patrolling Robot is a Raspberry Pi 4B-powered autonomous system designed for surveillance and security patrolling at night. It features obstacle detection, real-time video streaming, and remote control via a web interface. The robot follows a predefined patrol path while avoiding obstacles and capturing footage.
