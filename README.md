@@ -1,6 +1,6 @@
 # Night Patrolling Robot
 
-## Contributers 
+## Contributors
 This project has been was collaboratively developed by :
 - [@kunalzambare972](https://github.com/kunalzambare972)
 - [@Devashree29](https://github.com/Devashree29)
